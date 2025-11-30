@@ -6,7 +6,7 @@ export default function AboutSection() {
   const experiences = [
     {
       year: "Aug 2024 - Present",
-      title: "DevOps & ML Engineer",
+      title: "ML Engineer",
       company: "Personal Projects & Learning",
       description: "Currently working on DevOps practices while continuing ML projects. Building CI/CD pipelines for ML models, containerizing applications with Docker, and learning Kubernetes orchestration."
     },
