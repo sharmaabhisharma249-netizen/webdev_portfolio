@@ -7,9 +7,9 @@ import Image from 'next/image';
 export default function HeroSection() {
   const [currentText, setCurrentText] = useState(0);
   const texts = [
-    "MlOps Engineer",
-    "Prompt Engineer",
-    "DevOps Engineer",
+    "Machine Learning Enthusiast",
+    "Programmer",
+    "Web devloper",
     "Agentic AI Developer"
   ];
 
